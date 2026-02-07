@@ -1,0 +1,16 @@
+{
+  "name": "online_pdf_editor",
+  "version": "1.0.0",
+  "description": "PDF EDITOR",
+  "repository": {
+    "type": "git",
+    "url": "online-pdf-editor"
+  },
+  "license": "ISC",
+  "author": "mohit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  }
+}
